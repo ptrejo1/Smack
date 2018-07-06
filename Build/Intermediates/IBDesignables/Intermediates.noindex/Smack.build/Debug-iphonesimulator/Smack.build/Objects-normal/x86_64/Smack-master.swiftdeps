@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "6a7a7bcb60c04385bf69023aa375c5fc"
+build_time: [1529802048, 70514000]
+inputs:
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Services/SocketService.swift": [1529744954, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Controller/ProfileVC.swift": [1529647248, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/View/ChannelCell.swift": [1529730908, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Controller/ChannelVC.swift": [1529801801, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Controller/AvatarPickerVC.swift": [1529621259, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/View/RoundedButton.swift": [1529555353, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Model/Channel.swift": [1529727847, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/View/CircleImage.swift": [1529626742, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Services/MessageService.swift": [1529801801, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Controller/ChatVC.swift": [1529801801, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Services/UserDataService.swift": [1529646726, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Controller/CreateAccountVC.swift": [1529635081, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Services/AuthService.swift": [1529694520, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Controller/LoginVC.swift": [1529698672, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Controller/AddChannelVC.swift": [1529744954, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/View/GradientView.swift": [1529463467, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/View/AvatarCell.swift": [1529621261, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/AppDelegate.swift": [1529744954, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Smack/Utilities/Constants.swift": [1529801801, 0]

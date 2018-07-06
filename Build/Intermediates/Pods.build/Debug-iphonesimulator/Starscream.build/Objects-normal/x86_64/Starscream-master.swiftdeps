@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "94c2a49f86219c889120cf12dd4adeeb"
+build_time: [1529195408, 938545000]
+inputs:
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Pods/Starscream/Sources/Compression.swift": [1529189498, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Pods/Starscream/Sources/SSLSecurity.swift": [1529189498, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/Smack/Pods/Starscream/Sources/WebSocket.swift": [1529189498, 0]
